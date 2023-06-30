@@ -30,30 +30,34 @@ This is a web based application developed for health realted based website in In
 
 ### Home page -   
 
-![Screenshot (33)](https://github.com/Svardhini/frtproject/assets/107993563/862290d7-6be3-4e4a-9183-284118f75d20)
+![Screenshot (40)](https://github.com/Svardhini/frtproject/assets/107993563/5139edd2-d892-4470-9f13-fe84eb0b945b)
 
 ### Services -
 
-![Screenshot (34)](https://github.com/Svardhini/frtproject/assets/107993563/0968bfcf-8109-4d8e-9aac-55f0787fe3c0)
+![Screenshot (41)](https://github.com/Svardhini/frtproject/assets/107993563/ce48b31c-b2d4-4e62-949c-45bc5832b679)
 
 ### About -
 
-![Screenshot (35)](https://github.com/Svardhini/frtproject/assets/107993563/8d2a25d4-0846-49ac-98f2-d9d9e169d926)
+![Screenshot (42)](https://github.com/Svardhini/frtproject/assets/107993563/409da7f2-093d-4679-831f-f47304d095ac)
 
 ### Gallery -
 
-![Screenshot (36)](https://github.com/Svardhini/frtproject/assets/107993563/a4074f00-5bf2-44d1-86b0-85d4425c9a5f)
+![Screenshot (43)](https://github.com/Svardhini/frtproject/assets/107993563/0b8da2e0-dd73-4836-832e-89956e8ec23e)
 
 ### Staff -
 
-![Screenshot (37)](https://github.com/Svardhini/frtproject/assets/107993563/1eb15f88-69fc-4113-bf17-d79461523451)
+![Screenshot (44)](https://github.com/Svardhini/frtproject/assets/107993563/04d7cf6e-a8b7-4027-b303-491fda428c62)
+
 
 ### Contact -
 
-![Screenshot (38)](https://github.com/Svardhini/frtproject/assets/107993563/998bdc07-bcf6-43c5-814c-7dbd70d1eac5)
+![Screenshot (45)](https://github.com/Svardhini/frtproject/assets/107993563/001a6695-950a-4b5f-8589-a3267413bac1)
+
 
 ### Healthbot -
-![Screenshot (39)](https://github.com/Svardhini/frtproject/assets/107993563/f029dbe2-98f2-4277-9483-8e347bf3e5f0)
+
+![Screenshot (46)](https://github.com/Svardhini/frtproject/assets/107993563/e09c8a18-92ba-4fb7-adff-fabce7ddf5ca)
+
 
 ## Tech Stack 
 
